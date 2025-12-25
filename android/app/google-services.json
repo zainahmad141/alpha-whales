@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690578501051",
+    "project_id": "alphawhales-8a17c",
+    "storage_bucket": "alphawhales-8a17c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690578501051:android:50155dac0529479e33a89e",
+        "android_client_info": {
+          "package_name": "com.app.alpha_whales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88XRo2h7LS_I9x66l8ZBjzL_eo6re5N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

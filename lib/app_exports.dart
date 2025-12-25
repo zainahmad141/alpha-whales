@@ -1,0 +1,47 @@
+export 'package:flutter/gestures.dart';
+export 'package:flutter/material.dart';
+export 'package:flutter_svg/flutter_svg.dart';
+export 'package:alpha_whales/utils/components/custom_text_field.dart';
+export 'package:alpha_whales/utils/form_validate.dart';
+export 'package:alpha_whales/presentation/home/widgets/custom_tab_button.dart';
+export 'package:provider/provider.dart';
+export 'package:alpha_whales/presentation/home/data/home_provider.dart';
+export 'package:alpha_whales/presentation/whale/widgets/custom_stock_holding_card.dart';
+export 'package:alpha_whales/presentation/insider/widgets/insider_card.dart';
+export 'package:alpha_whales/presentation/authentication/ui/widgets/continue_with.dart';
+export 'package:alpha_whales/presentation/authentication/ui/widgets/custom_richtext.dart';
+export 'package:alpha_whales/presentation/authentication/ui/widgets/forget_password_button.dart';
+export 'package:alpha_whales/router/app_routes.dart';
+export 'package:alpha_whales/presentation/settings/widgets/notification_switch.dart';
+export 'package:alpha_whales/utils/const/styles.dart';
+export 'package:alpha_whales/presentation/home/data/stock_data.dart';
+export 'package:alpha_whales/presentation/home/widgets/custom_investor_card.dart';
+export 'package:carousel_slider/carousel_slider.dart';
+export 'package:alpha_whales/presentation/settings/data/profile_data.dart';
+export 'package:alpha_whales/presentation/settings/widgets/custom_dropdown.dart';
+export 'package:alpha_whales/presentation/settings/widgets/profile_avatar.dart';
+export 'package:alpha_whales/utils/components/app_text_field.dart';
+export 'package:alpha_whales/utils/components/custom_app_abr.dart';
+export 'package:alpha_whales/theme.dart';
+export 'package:alpha_whales/presentation/home/widgets/common_appbar.dart';
+export 'package:alpha_whales/utils/const/colors.dart';
+export 'package:firebase_core/firebase_core.dart';
+export 'package:flutter/services.dart';
+export 'package:alpha_whales/utils/const/responsive_config.dart';
+export 'package:flutter_bloc/flutter_bloc.dart';
+export 'package:alpha_whales/generated/assets.dart';
+export 'package:alpha_whales/presentation/authentication/bloc/login_bloc.dart';
+export 'package:alpha_whales/presentation/authentication/data/authentication_provider.dart';
+export 'package:alpha_whales/presentation/authentication/ui/widgets/link_to_signup_or_login.dart';
+export 'package:alpha_whales/presentation/bottom_navbar/custom_bottom_navbar.dart';
+export 'package:alpha_whales/utils/components/custom_action_button.dart';
+export 'package:alpha_whales/utils/const/app_strings.dart';
+export 'package:alpha_whales/utils/extensions/alert_extension.dart';
+export 'package:alpha_whales/presentation/alert/ui/alert_screen.dart';
+export 'package:alpha_whales/presentation/cnbc/ui/cnbc_alert_screen.dart';
+export 'package:alpha_whales/presentation/home/ui/home_screen.dart';
+export 'package:alpha_whales/presentation/insider/ui/insider_screen.dart';
+export 'package:alpha_whales/presentation/whale/ui/whale_list_screen.dart';
+
+
+
